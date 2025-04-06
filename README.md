@@ -25,4 +25,4 @@ Apply multimedia elements such as audio and video.
 - Create a well-structured HTML5 document.
 - Ensure semantic correctness.
 
-Happy Coding! 💻✨
+
